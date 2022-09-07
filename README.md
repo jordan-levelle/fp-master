@@ -8,6 +8,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 The goal for this site was to create a good foundation for future development of a personal portfolio. 
 It includes a homepage. an about me section, portfolio of work done and working towards, and a contact form. 
-This site is by no means done but I hope it will provide me with a good starting point to develop a truly interactive and user friendly site. 
+This site is by no means done but I hope it will provide me with a good starting point to develop a truly interactive and user friendly personal portfolio site.
 
-I am still running into logic errors with my js form validation and utlizing components in vue. I am only 2 weeks in to using vue so I still have a lot to learn. 
